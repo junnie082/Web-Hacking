@@ -5,6 +5,13 @@ STCE 웹 해킹 스터디.
 2023년 9월부터 2024년 2월까지.
 
 
+### 목표
+2023년 12월까지 
+- [드림핵 웹해킹 강의](https://dreamhack.io) 31강 모두 완료하기 
+- [웹 해킹 첫걸음](https://www.yes24.com/Product/Goods/111089263) 목차 531개 모두 보기
+
+
+
 ### 범위
 - [드림핵 웹해킹 강의](https://dreamhack.io)
 - [웹 해킹 첫걸음](https://www.yes24.com/Product/Goods/111089263)
