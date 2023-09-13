@@ -21,4 +21,4 @@ STCE 웹 해킹 스터디.
 <img width="287" alt="스크린샷 2023-09-10 오후 11 02 15" src="https://github.com/junnie082/Web-Hacking/assets/88719152/7f7404e2-2599-491b-be6c-029a6a0fc857">
 
 ### 진행방식
-
+[회의록 Week1 참고](https://github.com/junnie082/Web-Hacking/wiki/Week1)
